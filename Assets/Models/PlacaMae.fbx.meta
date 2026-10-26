@@ -3,7 +3,27 @@ guid: 658961b950b87a24da619a7c30d43fdb
 ModelImporter:
   serializedVersion: 24300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 82a1bacf7f8a8c34aa868485a5c672eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalClaro
+    second: {fileID: 2100000, guid: d8b6f8d7c2e0e594da682312ffb39d36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalEscuro
+    second: {fileID: 2100000, guid: 098b8b6a199279d45980fd3d5256fb51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Placa
+    second: {fileID: 2100000, guid: dea02e2b0b4c7e940a4e6db44a65c6c5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
